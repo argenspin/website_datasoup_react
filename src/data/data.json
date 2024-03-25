@@ -4,18 +4,18 @@
     "paragraph": "Transform Your Business Operations with Intuitive ERP Solutions - Drive Efficiency, Enhance Productivity!"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "At DataSoup, we are dedicated to providing innovative ERP solutions tailored to meet the unique needs of our clients. With a focus on efficiency, reliability, and customer satisfaction, we strive to empower businesses with cutting-edge technology and expert guidance. Our team of experienced professionals is committed to delivering exceptional service and driving success for our clients in their digital transformation journey",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Customization Options",
+      "Cost-Effective Solutions",
+      "Training and Education",
+      "Dedicated Support"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Customer-Centric Approach",
+      "Collaborative Approach",
+      "Transparency",
+      "Quality Assurance"
     ]
   },
   "Gallery": [
@@ -67,34 +67,34 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
+      "icon": "fa fa-building",
       "name": "ERP Implementation",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Transform your business with our expert ERP implementation services. Our team offers tailored solutions designed to meet your unique requirements, from initial consultation to seamless integration and ongoing support"
     },
     {
-      "icon": "fa fa-cart-arrow-down",
+      "icon": "fa fa-cogs",
       "name": "ERP Customisation",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "We specialize in customizing ERP solutions to perfectly align with your business objectives, whether it involves developing custom modules, integrating third-party systems, or enhancing the user experience."
     },
     {
       "icon": "fa fa-chalkboard-user",
       "name": "ERP Training",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "From basic user training to advanced customization and administration, we offer tailored programs to empower your staff and drive success in your organization's ERP implementation."
     },
     {
-      "icon": "fa fa-language",
+      "icon": "fa fa-globe",
       "name": "Web Development",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Our Web development department cover full-stack development, from frontend design to backend implementation, ensuring online presence is not just visually appealing but also functionally robust and user-friendly."
     },
     {
-      "icon": "fa fa-plane",
+      "icon": "fa fa-file-excel-o",
       "name": "Excel Training",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Our expert Excel trainers offer customized programs, spanning from basic functions to advanced techniques like data analysis, reporting, pivot tables, and macros, providing solutions tailored to your business needs and enhancing productivity."
     },
     {
-      "icon": "fa fa-pie-chart",
+      "icon": "fa fa-wrench",
       "name": "Other Technical Services",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "We also offer a whole array of other technical services like system maintenance, server maintenance, OS support, and installation, ensuring seamless operation and optimal performance for your business infrastructure."
     }
   ],
   "Testimonials": [
@@ -154,7 +154,7 @@
   "Contact": {
     "address": "4321 California St, San Francisco, CA 12345 ",
     "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "email": "support@datasoup.in",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
